@@ -51,11 +51,11 @@ I am Pranav Thakkar, currently pursuing my B.Tech in Information Technology from
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=pankildoshi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pankildoshi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=dart,css,scss,html&langs_count=4" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pranav1002&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranav1002&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=dart,css,scss,html&langs_count=4" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankildoshi&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav1002&theme=tokyonight" />
 </p>
