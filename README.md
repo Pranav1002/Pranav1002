@@ -6,15 +6,13 @@
 I am Pranav Thakkar, currently pursuing my B.Tech in Information Technology from [Dharmsinh Desai University](https://www.ddu.ac.in/). I am a tech enthusiast & have deep passion for web development. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 <br>
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pankil19doshi@gmail.com)](mailto:pankil19doshi@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pankil-doshi-1705561a1/)](https://www.linkedin.com/in/pankil-doshi-1705561a1)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/pankildoshi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pankil_doshi/)](https://www.instagram.com/pankil_doshi/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prnvthakkar@gmail.com)](mailto:prnvthakkar@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-thakkar-5560b3215/)](https://www.linkedin.com/in/pranav-thakkar-5560b3215)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prnv_102/)](https://www.instagram.com/prnv_102/)
 
 ## 👨🏻‍💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/PankilDoshi/)
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-2EC866?style=for-the-badge&logo=GeeksForGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/pankil19doshi)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/pranthakkar1/)
 
 ## ⚡ Technologies
 
@@ -30,9 +28,7 @@ I am Pranav Thakkar, currently pursuing my B.Tech in Information Technology from
 ### Libraries & Framework
 
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)](https://nodejs.org/)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
-![.Net](https://img.shields.io/badge/.NETCore-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+[![SprinBoot](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)](https://springboot.org/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 
