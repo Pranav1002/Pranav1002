@@ -30,9 +30,6 @@ I am Pranav Thakkar, currently pursuing my B.Tech in Information Technology from
 ### Libraries & Framework
 
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)](https://nodejs.org/)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
-![.Net](https://img.shields.io/badge/.NETCore-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 
